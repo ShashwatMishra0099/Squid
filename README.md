@@ -30,6 +30,18 @@
    - [View the file directly](https://drive.google.com/file/d/16zFCz-Wg8W-49wqji54Dhjjum3xA60G_/view?usp=drivesdk)
    - [Search for this Google Drive link](https://www.google.com/search?q=https://drive.google.com/file/d/16zFCz-Wg8W-49wqji54Dhjjum3xA60G_/view?usp=drivesdk)
 
+8. **File 8**
+   - [View the file directly](https://drive.google.com/file/d/1dXK1k5riaYfC-HQXyCKLx9NvhSZLqhVb/view?usp=drivesdk)
+   - [Search for this Google Drive link](https://www.google.com/search?q=https://drive.google.com/file/d/1dXK1k5riaYfC-HQXyCKLx9NvhSZLqhVb/view?usp=drivesdk)
+
+9. **File 9**
+   - [View the file directly](https://drive.google.com/file/d/1XdI82DQyGI52Ydx7o-mTxn-SlYiCkZSN/view?usp=drivesdk)
+   - [Search for this Google Drive link](https://www.google.com/search?q=https://drive.google.com/file/d/1XdI82DQyGI52Ydx7o-mTxn-SlYiCkZSN/view?usp=drivesdk)
+
+10. **Folder 1**
+    - [View the folder directly](https://drive.google.com/drive/folders/1nYaS3ZcGqsZquidOACu5d-OReOJg17lR)
+    - [Search for this Google Drive folder](https://www.google.com/search?q=https://drive.google.com/drive/folders/1nYaS3ZcGqsZquidOACu5d-OReOJg17lR)
+
 ---
 
-Click the "View the file directly" link to open the file, or click the "Search for this Google Drive link" link to perform a Google search for it.
+Click the "View the file directly" or "View the folder directly" link to open the content, or click the "Search for this Google Drive link" or "Search for this Google Drive folder" link to perform a Google search for it.
