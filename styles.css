@@ -1,0 +1,110 @@
+/* General Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Arial', sans-serif;
+  color: white;
+  background: linear-gradient(to bottom, #000, #b00);
+}
+
+/* Header */
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  background: black;
+  border-bottom: 2px solid red;
+}
+.header .logo h1 {
+  color: red;
+  font-size: 24px;
+}
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin: 0 10px;
+  font-size: 18px;
+  transition: color 0.3s;
+}
+.navbar a:hover {
+  color: red;
+}
+
+/* Hero Section */
+.hero-section {
+  height: 60vh;
+  background: linear-gradient(to bottom, red, black);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.hero-text h2 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+.hero-text p {
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+.btn {
+  padding: 10px 20px;
+  font-size: 16px;
+  background: black;
+  color: red;
+  border: 2px solid red;
+  cursor: pointer;
+  transition: background 0.3s, color 0.3s;
+}
+.btn:hover {
+  background: red;
+  color: black;
+}
+
+/* Featured Streams Section */
+.featured-streams {
+  padding: 40px;
+  background: black;
+}
+.featured-streams h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 28px;
+  color: red;
+}
+.streams-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+.stream-card {
+  background: #222;
+  border: 2px solid red;
+  padding: 10px;
+  text-align: center;
+  transition: transform 0.3s;
+}
+.stream-card img {
+  width: 100%;
+  border-bottom: 2px solid red;
+}
+.stream-card h3 {
+  margin: 10px 0;
+  font-size: 18px;
+}
+.stream-card:hover {
+  transform: scale(1.05);
+}
+
+/* Footer */
+.footer {
+  text-align: center;
+  padding: 20px;
+  background: black;
+  border-top: 2px solid red;
+  color: white;
+}
